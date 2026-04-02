@@ -8,7 +8,16 @@
       {
         "group": "Getting started",
         "pages": ["introduction"]
+      },
+      {
+       "group": "Overview",
+       "pages": ["overview"]
+
       }
     ]
-  }
+  },
+    "colors": {
+      "primary": "#ffffff"
+    }
+  
 }
