@@ -11,8 +11,8 @@
       },
       {
        "group": "Overview",
-       "pages": ["overview"]
-
+       "pages": ["overview","how-it-works"]
+  
       }
     ]
   },
