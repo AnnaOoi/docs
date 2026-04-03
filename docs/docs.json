@@ -11,7 +11,7 @@
       },
       {
        "group": "Overview",
-       "pages": ["overview","how-it-works"]
+       "pages": ["overview","how-it-works","test"]
   
       }
     ]
